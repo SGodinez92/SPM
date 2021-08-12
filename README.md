@@ -10,5 +10,5 @@ Model folder
 
 Should any comments or questions arise, send them to the following emails:
 
-segodine@ucsd.edu
-sergiog.2392@gmail.com
+- segodine@ucsd.edu
+- sergiog.2392@gmail.com
