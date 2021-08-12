@@ -1,0 +1,5 @@
+CODe
+
+The files .cpp and .h are necessary to build an OpenSees.exe which includes the SPM described in the paper "STRINGER-PANEL MODEL FOR ANALYSIS OF BUILDING DIAPHRAGMS"
+
+All of the documentation about the inputs and outputs of the element are described in the .docx file
