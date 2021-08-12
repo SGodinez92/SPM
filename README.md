@@ -5,8 +5,10 @@ Code folder
 - Includes all of the files and information related to the code of the StringPanelLin
 
 Model folder
-- Includes all of the files for the creation of the model discussed in the referenced paper above
+- Includes all of the files for the creation of the model discussed in the paper referenced above
 
+
+Please, if using this code or element, give proper credit where it's due.
 
 Should any comments or questions arise, send them to the following emails:
 
