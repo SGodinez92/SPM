@@ -1,0 +1,4 @@
+All of the .tcl files included are set to build the nonlinear model to perform a time-history analysis
+The first file to execute is the run.tcl file
+
+The Model.dwg includes all of the element numbering schemes
